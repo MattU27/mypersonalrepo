@@ -6,7 +6,7 @@ public class App {
         Controller.strength = 5;
         Controller.agility = 4;
         Controller.intelligence = 3;
-        Controller.name = "Jett";
+        Controller.name = "Omen";
         Controller.sayMyName();
         Controller.sayMyStrength();
         Controller.sayMyAgility();
@@ -26,10 +26,10 @@ public class App {
 
         Character Duelist = new Character();
 
-        Duelist.strength = 4;
-        Duelist.agility = 6;
+        Duelist.strength = 10;
+        Duelist.agility = 8;
         Duelist.intelligence = 3;
-        Duelist.name = "Omen";
+        Duelist.name = "Jett";
         Duelist.sayMyName();
         Duelist.sayMyStrength();
         Duelist.sayMyAgility();
